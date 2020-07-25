@@ -33,3 +33,5 @@ Ta có thể sử dụng các câu lệnh dưới để tạo một nhánh mới
 Ta dùng lệnh phía dưới để chuyển về nhánh ta cần chọn trong git nếu đang trong nhanh khác
 # git checkout [tên nhánh] 
 
+Ta có thể sử dụng câu lệnh dưới để ghép code các nhanh lại với nhau
+# git merge [tên nhánh cần merge vào nhanh hiện tại] 
