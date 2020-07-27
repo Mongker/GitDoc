@@ -35,3 +35,6 @@ Ta dùng lệnh phía dưới để chuyển về nhánh ta cần chọn trong g
 
 Ta có thể sử dụng câu lệnh dưới để ghép code các nhanh lại với nhau
 # git merge [tên nhánh cần merge vào nhanh hiện tại] 
+
+Ta có thể sử dụng câu lệnh dưới để đẩy 1 project lên gitHub 
+# git remote add origin [linh gitHub được cung cấp]
