@@ -39,6 +39,7 @@ Ta có thể sử dụng câu lệnh dưới để ghép code các nhanh lại v
 Ta có thể sử dụng câu lệnh dưới để đẩy 1 project lên gitHub 
 # git remote add origin [linh gitHub được cung cấp]
 - VD: git remote origin https://github.com/Mongker/GitDoc.git
+
 Sau khi sử dụng câu lệnh trên ta sử dụng câu lệnh 
 # git push -u origin master
 để đẩy code lên source của gitHub
